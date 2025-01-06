@@ -63,4 +63,5 @@ SmartTech Co. partnered with our data science team to develop a reliable machine
 
 ### **Deploy**
 - Deploy the model via a web interface to provide real-time price predictions for new laptops, ensuring SmartTech Co. stays competitive in the market by making data-driven pricing decisions.
-
+![p output](https://github.com/user-attachments/assets/db64f541-a603-4eff-94f6-5cdb7027eba6)
+![output](https://github.com/user-attachments/assets/3130a61c-ac1c-467e-8fe8-e07250632149)
