@@ -1,8 +1,6 @@
+## **Predictive Analytics for Laptop Pricing with Machine Learning**
 
-
-**Predictive Analytics for Laptop Pricing with Machine Learning**
-
-**Project Overview**
+## **Project Overview**
 
 SmartTech Co. partnered with our data science team to develop a reliable machine learning model for accurate laptop price prediction. The objective was to create a robust tool that could assist in strategic pricing, understand market positioning, and assess brand influence within the competitive laptop market.
 
