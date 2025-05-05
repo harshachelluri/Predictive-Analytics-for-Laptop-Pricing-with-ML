@@ -1,4 +1,4 @@
-## **Predictive Analytics for Laptop Pricing with Machine Learning**
+## **Predictive Analytics for Laptop Pricing with Machine Learning**  
 
 ## **Project Overview**
 
