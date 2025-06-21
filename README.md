@@ -8,7 +8,7 @@ SmartTech Co. partnered with our data science team to develop a reliable machine
 
 - **Accurate Pricing**: Build a model capable of predicting laptop prices based on key specifications, brand reputation, and market trends.
 - **Market Positioning**: Analyze how different features contribute to laptop pricing.
-- **Brand Influence**: Investigate the role of brand reputation in influencing pricing.
+- **Brand Influence**: Investigate the role of brand reputation in influencing pricing.  
 
 ### **Project Phases**
 
